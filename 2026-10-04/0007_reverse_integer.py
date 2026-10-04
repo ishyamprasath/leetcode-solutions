@@ -1,4 +1,21 @@
-# 7. Reverse Integer (Medium)
-# https://leetcode.com/problems/reverse-integer/
+# 7. Reverse Integer
+# Difficulty: Medium
+# URL: https://leetcode.com/problems/reverse-integer/
+
 class Solution:
-    def reverse(self, x: int) -> int: return (lambda v: 0 if v > 2**31 - 1 else (-v if x < 0 else v))(int(str(abs(x))[::-1]))
+    def reverse(self, x: int) -> int:
+        INT_MIN, INT_MAX = -2**31, 2**31 - 1
+        sign = -1 if x < 0 else 1
+        x = abs(x)
+        rev = 0
+        while x:
+            digit = x % 10
+            x //= 10
+            # Reject if appending digit would overflow 32-bit signed range
+            if rev > INT_MAX // 10 or (rev == INT_MAX // 10 and digit > INT_MAX % 10):
+                return 0
+            rev = rev * 10 + digit
+        rev *= sign
+        if rev < INT_MIN or rev > INT_MAX:
+            return 0
+        return rev
