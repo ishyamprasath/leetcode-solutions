@@ -12,3 +12,8 @@ Daily LeetCode solutions
 | 2026-10-09 | 1541 (POD), 118, 119, 171, 168 |
 | 2026-10-10 | 2333 (POD), 3110, 2894, 2942, 3285 |
 | 2026-10-11 | 2778 (POD), 1929, 1470, 1512, 2235 |
+
+## GFG Log
+| Date | Problems |
+|------|----------|
+| 2026-10-11 | POTD Sort Two Parts Sorted; GFG 160 Arrays 1-4 |
