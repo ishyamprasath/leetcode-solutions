@@ -18,3 +18,4 @@ Daily LeetCode solutions
 | Date | Problems |
 |------|----------|
 | 2026-10-11 | POTD Sort Two Parts Sorted; GFG 160 Arrays 1-4 |
+| 2026-10-12 | POTD Minimum Squares with Full Cuts; GFG 160 Arrays 5-8 |
