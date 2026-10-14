@@ -14,6 +14,7 @@ Daily LeetCode solutions
 | 2026-10-11 | 2778 (POD), 1929, 1470, 1512, 2235 |
 | 2026-10-12 | 2897 (POD), 217, 344, 268, 231 |
 | 2026-10-13 | 3727 (POD), 709, 1108, 771, 1920 |
+| 2026-10-14 | 3723 (POD), 1365, 2160, 1281, 3194 |
 
 ## GFG Log
 | Date | Problems |
@@ -21,3 +22,4 @@ Daily LeetCode solutions
 | 2026-10-11 | POTD Sort Two Parts Sorted; GFG 160 Arrays 1-4 |
 | 2026-10-12 | POTD Minimum Squares with Full Cuts; GFG 160 Arrays 5-8 |
 | 2026-10-13 | POTD Adding Ones; GFG 160 Arrays 9-12 |
+| 2026-10-14 | POTD Roll Characters of String; GFG 160 Arrays 13, Strings 1-3 |
