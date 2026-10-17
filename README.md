@@ -28,3 +28,4 @@ Daily LeetCode solutions
 | 2026-10-14 | POTD Roll Characters of String; GFG 160 Arrays 13, Strings 1-3 |
 | 2026-10-15 | POTD Maximum Without 3 Consecutive Set Bits; GFG 160 Strings 4-7 |
 | 2026-10-16 | POTD: Successful Binary Searches Irrespective of Pivot; GFG 160 Sorting 1-4 |
+| 2026-10-17 | POTD Convert One String to Another with Constraints; GFG 160 Sorting 5-7, Searching 1 |
