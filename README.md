@@ -32,3 +32,4 @@ Daily LeetCode solutions
 | 2026-10-16 | POTD: Successful Binary Searches Irrespective of Pivot; GFG 160 Sorting 1-4 |
 | 2026-10-17 | POTD Convert One String to Another with Constraints; GFG 160 Sorting 5-7, Searching 1 |
 | 2026-10-18 | POTD Shortest Path From 1 To n; GFG 160 Searching 2-5 |
+| 2026-10-19 | POTD Count Indices That Escape Array; GFG 160 Searching 6-8, Matrix 1 |
