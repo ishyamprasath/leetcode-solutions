@@ -34,3 +34,4 @@ Daily LeetCode solutions
 | 2026-10-17 | POTD Convert One String to Another with Constraints; GFG 160 Sorting 5-7, Searching 1 |
 | 2026-10-18 | POTD Shortest Path From 1 To n; GFG 160 Searching 2-5 |
 | 2026-10-19 | POTD Count Indices That Escape Array; GFG 160 Searching 6-8, Matrix 1 |
+| 2026-10-20 | POTD Largest with Same Parity Adjacent Swaps; GFG 160 Matrix 2-5 |
