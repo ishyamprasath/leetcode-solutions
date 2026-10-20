@@ -1,0 +1,25 @@
+# 232. Implement Queue using Stacks
+class MyQueue:
+
+    def __init__(self):
+        self.inbox = []
+        self.outbox = []
+
+    def push(self, x: int) -> None:
+        self.inbox.append(x)
+
+    def pop(self) -> int:
+        self._move()
+        return self.outbox.pop()
+
+    def peek(self) -> int:
+        self._move()
+        return self.outbox[-1]
+
+    def empty(self) -> bool:
+        return not self.inbox and not self.outbox
+
+    def _move(self) -> None:
+        if not self.outbox:
+            while self.inbox:
+                self.outbox.append(self.inbox.pop())
