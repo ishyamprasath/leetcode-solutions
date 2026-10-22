@@ -38,3 +38,4 @@ Daily LeetCode solutions
 | 2026-10-19 | POTD Count Indices That Escape Array; GFG 160 Searching 6-8, Matrix 1 |
 | 2026-10-20 | POTD Largest with Same Parity Adjacent Swaps; GFG 160 Matrix 2-5 |
 | 2026-10-21 | POTD Minimum Sum Subarray; GFG 160 Matrix 6, Hashing 1-3 |
+| 2026-10-22 | POTD Palindrome with Replacement; GFG 160 Hashing 4-9 |
