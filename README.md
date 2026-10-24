@@ -42,3 +42,4 @@ Daily LeetCode solutions
 | 2026-10-21 | POTD Minimum Sum Subarray; GFG 160 Matrix 6, Hashing 1-3 |
 | 2026-10-22 | POTD Palindrome with Replacement; GFG 160 Hashing 4-9 |
 | 2026-10-23 | POTD Count Pairs Violating BST Property; GFG 160 Two Pointer Technique 1-4 |
+| 2026-10-24 | POTD Trace Path; GFG 160 Two Pointer Technique 5-8 |
