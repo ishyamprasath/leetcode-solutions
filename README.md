@@ -44,3 +44,4 @@ Daily LeetCode solutions
 | 2026-10-22 | POTD Palindrome with Replacement; GFG 160 Hashing 4-9 |
 | 2026-10-23 | POTD Count Pairs Violating BST Property; GFG 160 Two Pointer Technique 1-4 |
 | 2026-10-24 | POTD Trace Path; GFG 160 Two Pointer Technique 5-8 |
+| 2026-10-25 | POTD Sum of Beauty of All Substrings; GFG 160 Two Pointer Technique 9-10, Prefix Sum 1-2 |
