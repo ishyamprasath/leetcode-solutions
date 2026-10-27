@@ -48,3 +48,4 @@ Daily LeetCode solutions
 | 2026-10-24 | POTD Trace Path; GFG 160 Two Pointer Technique 5-8 |
 | 2026-10-25 | POTD Sum of Beauty of All Substrings; GFG 160 Two Pointer Technique 9-10, Prefix Sum 1-2 |
 | 2026-10-26 | POTD Minimize Max Min Diff with Subarray Removal; GFG 160 Prefix Sum 3-4, Recursion and Backtracking 1-2 |
+| 2026-10-27 | POTD Maximum Weight Transformation of String; GFG 160 Recursion and Backtracking 3-5, Linked List 1 |
