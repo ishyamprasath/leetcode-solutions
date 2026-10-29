@@ -50,3 +50,4 @@ Daily LeetCode solutions
 | 2026-10-26 | POTD Minimize Max Min Diff with Subarray Removal; GFG 160 Prefix Sum 3-4, Recursion and Backtracking 1-2 |
 | 2026-10-27 | POTD Maximum Weight Transformation of String; GFG 160 Recursion and Backtracking 3-5, Linked List 1 |
 | 2026-10-28 | POTD Nth in Concatenated Decimal String; GFG 160 Linked List 2-5 |
+| 2026-10-29 | POTD Optimal File Merge; GFG 160 Linked List 6-9 |
