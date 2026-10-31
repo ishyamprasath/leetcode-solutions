@@ -55,3 +55,4 @@ Daily LeetCode solutions
 | 2026-10-28 | POTD Nth in Concatenated Decimal String; GFG 160 Linked List 2-5 |
 | 2026-10-29 | POTD Optimal File Merge; GFG 160 Linked List 6-9 |
 | 2026-10-30 | POTD Subsets with MEX in Range; GFG 160 Linked List 10, Tree 1-3 |
+| 2026-10-31 | POTD Maximum Packages within Time; GFG 160 Tree 4-7 |
