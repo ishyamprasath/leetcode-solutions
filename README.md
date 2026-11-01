@@ -57,3 +57,4 @@ Daily LeetCode solutions
 | 2026-10-29 | POTD Optimal File Merge; GFG 160 Linked List 6-9 |
 | 2026-10-30 | POTD Subsets with MEX in Range; GFG 160 Linked List 10, Tree 1-3 |
 | 2026-10-31 | POTD Maximum Packages within Time; GFG 160 Tree 4-7 |
+| 2026-11-01 | POTD Maximum Subarray Sum with One Square Allowed; GFG 160 Tree 8-12 |
