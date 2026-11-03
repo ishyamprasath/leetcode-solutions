@@ -32,6 +32,8 @@ Daily LeetCode solutions
 | 2026-10-30 | 3970 (POD), 3882 (Oct 28 POD, late), 728, 733, 744, 747, 748 |
 | 2026-10-31 | 3665 (POD), 762, 766, 783, 788, 796, 804 |
 | 2026-11-01 | 453 (POD), 806, 812, 819, 821, 824, 830 |
+| 2026-11-02 | 462 (POD) |
+| 2026-11-03 | 3736 (POD) |
 
 ## GFG Log
 | Date | Problems |
@@ -58,3 +60,5 @@ Daily LeetCode solutions
 | 2026-10-30 | POTD Subsets with MEX in Range; GFG 160 Linked List 10, Tree 1-3 |
 | 2026-10-31 | POTD Maximum Packages within Time; GFG 160 Tree 4-7 |
 | 2026-11-01 | POTD Maximum Subarray Sum with One Square Allowed; GFG 160 Tree 8-12 |
+| 2026-11-02 | POTD Largest Sum Cycle |
+| 2026-11-03 | POTD Count Tree Paths With Limited Max Edge Weight |
