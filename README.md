@@ -35,6 +35,7 @@ Daily LeetCode solutions
 | 2026-11-02 | 462 (POD) |
 | 2026-11-03 | 3736 (POD) |
 | 2026-11-04 | 3505 (POD) |
+| 2026-11-05 | 1385 (POD) |
 
 ## GFG Log
 | Date | Problems |
@@ -64,3 +65,4 @@ Daily LeetCode solutions
 | 2026-11-02 | POTD Largest Sum Cycle |
 | 2026-11-03 | POTD Count Tree Paths With Limited Max Edge Weight |
 | 2026-11-04 | POTD XOR of All Subarray XORs |
+| 2026-11-05 | POTD Minimum Days |
