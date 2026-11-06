@@ -68,3 +68,4 @@ Daily LeetCode solutions
 | 2026-11-04 | POTD XOR of All Subarray XORs |
 | 2026-11-05 | POTD Minimum Days |
 | 2026-11-06 | POTD Balanced Binary Tree Counter |
+| 2026-11-06 (extras) | 2769, 2798, 2220, 1688, 1684, 1720, 1791, 2000, 1662 · GFG 160 Tree 13-15, Heap 1 |
