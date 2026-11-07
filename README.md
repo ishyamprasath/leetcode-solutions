@@ -37,6 +37,7 @@ Daily LeetCode solutions
 | 2026-11-04 | 3505 (POD) |
 | 2026-11-05 | 1385 (POD) |
 | 2026-11-06 | 2747 (POD) |
+| 2026-11-07 | 1882 (POD), 859, 860, 867, 868, 883, 884, 892, 896, 905 |
 
 ## GFG Log
 | Date | Problems |
@@ -69,3 +70,4 @@ Daily LeetCode solutions
 | 2026-11-05 | POTD Minimum Days |
 | 2026-11-06 | POTD Balanced Binary Tree Counter |
 | 2026-11-06 (extras) | 2769, 2798, 2220, 1688, 1684, 1720, 1791, 2000, 1662 · GFG 160 Tree 13-15, Heap 1 |
+| 2026-11-07 | POTD Generate Usernames · GFG 160 Heap 2-4, Stack 1 |
