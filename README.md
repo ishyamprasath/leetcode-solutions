@@ -72,3 +72,4 @@ Daily LeetCode solutions
 | 2026-11-06 | POTD Balanced Binary Tree Counter |
 | 2026-11-06 (extras) | 2769, 2798, 2220, 1688, 1684, 1720, 1791, 2000, 1662 · GFG 160 Tree 13-15, Heap 1 |
 | 2026-11-07 | POTD Generate Usernames · GFG 160 Heap 2-4, Stack 1 |
+| 2026-11-08 | POTD Minimum Time with 2 Scanners · GFG 160 Stack 2-5 |
