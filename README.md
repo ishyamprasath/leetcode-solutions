@@ -77,3 +77,4 @@ Daily LeetCode solutions
 | 2026-11-08 | POTD Minimum Time with 2 Scanners · GFG 160 Stack 2-5 |
 | 2026-11-09 | POTD Count Group Occurrences · GFG 160 Stack 6-9 |
 | 2026-11-10 | POTD At Least K Occurrences · GFG 160 Queue and Deque (K Sized Subarray Maximum, Longest Subarray With Limited Pairwise Difference), DP (Longest Increasing Subsequence, Longest String Chain) |
+| 2026-11-11 | POTD Any Duplicate Within K Distance · GFG 160 DP (Longest Common Subsequence, Longest Palindromic Subsequence, Longest Palindrome in String, Palindrome SubStrings Count) |
