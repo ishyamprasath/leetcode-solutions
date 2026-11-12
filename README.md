@@ -80,3 +80,4 @@ Daily LeetCode solutions
 | 2026-11-09 | POTD Count Group Occurrences · GFG 160 Stack 6-9 |
 | 2026-11-10 | POTD At Least K Occurrences · GFG 160 Queue and Deque (K Sized Subarray Maximum, Longest Subarray With Limited Pairwise Difference), DP (Longest Increasing Subsequence, Longest String Chain) |
 | 2026-11-11 | POTD Any Duplicate Within K Distance · GFG 160 DP (Longest Common Subsequence, Longest Palindromic Subsequence, Longest Palindrome in String, Palindrome SubStrings Count) |
+| 2026-11-12 | POTD Closest in BST · GFG 160 DP (Edit Distance, Ways to Reach the n'th Stair, Min Cost Climbing Stairs, 0 - 1 Knapsack Problem) |
