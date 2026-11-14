@@ -84,3 +84,4 @@ Daily LeetCode solutions
 | 2026-11-11 | POTD Any Duplicate Within K Distance · GFG 160 DP (Longest Common Subsequence, Longest Palindromic Subsequence, Longest Palindrome in String, Palindrome SubStrings Count) |
 | 2026-11-12 | POTD Closest in BST · GFG 160 DP (Edit Distance, Ways to Reach the n'th Stair, Min Cost Climbing Stairs, 0 - 1 Knapsack Problem) |
 | 2026-11-13 | POTD Common Nodes in Two BSTs · GFG 160 DP (Coin Change (Count Ways), Coin Change (Minimum Coins), Minimum Jumps, Subset Sum Problem) |
+| 2026-11-14 | POTD Max Equal Sum in 3 Stacks · GFG 160 DP (Partition Equal Subset Sum, Stock Buy and Sell – Max K Transactions, Stock Buy and Sell – Max 2 Transactions, Stickler Thief) |
