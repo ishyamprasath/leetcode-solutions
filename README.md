@@ -45,6 +45,7 @@ Daily LeetCode solutions
 | 2026-11-12 | 3105 (POD), 1252, 1275, 1287, 1290, 1299, 1304, 1309, 1313, 1317 |
 | 2026-11-13 | 3420 (POD), 1323, 1331, 1337, 1346, 1351, 1356, 1360, 1370, 1374 |
 | 2026-11-14 | 3364 (POD), 1380, 1389, 1394, 1399, 1413, 1417, 1422, 1436, 1446 |
+| 2026-11-15 | 1524 (POD), 1450, 1455, 1460, 1464, 1475, 1491, 1496, 1502, 1507 |
 
 ## GFG Log
 | Date | Problems |
@@ -85,3 +86,4 @@ Daily LeetCode solutions
 | 2026-11-12 | POTD Closest in BST · GFG 160 DP (Edit Distance, Ways to Reach the n'th Stair, Min Cost Climbing Stairs, 0 - 1 Knapsack Problem) |
 | 2026-11-13 | POTD Common Nodes in Two BSTs · GFG 160 DP (Coin Change (Count Ways), Coin Change (Minimum Coins), Minimum Jumps, Subset Sum Problem) |
 | 2026-11-14 | POTD Max Equal Sum in 3 Stacks · GFG 160 DP (Partition Equal Subset Sum, Stock Buy and Sell – Max K Transactions, Stock Buy and Sell – Max 2 Transactions, Stickler Thief) |
+| 2026-11-15 | POTD Sum of All Digit Subsequences · GFG 160 DP (Stickler Thief II, Total Decoding Messages, Matrix Chain Multiplication, Boolean Parenthesization) |
