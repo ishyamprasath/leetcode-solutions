@@ -88,3 +88,4 @@ Daily LeetCode solutions
 | 2026-11-13 | POTD Common Nodes in Two BSTs · GFG 160 DP (Coin Change (Count Ways), Coin Change (Minimum Coins), Minimum Jumps, Subset Sum Problem) |
 | 2026-11-14 | POTD Max Equal Sum in 3 Stacks · GFG 160 DP (Partition Equal Subset Sum, Stock Buy and Sell – Max K Transactions, Stock Buy and Sell – Max 2 Transactions, Stickler Thief) |
 | 2026-11-15 | POTD Sum of All Digit Subsequences · GFG 160 DP (Stickler Thief II, Total Decoding Messages, Matrix Chain Multiplication, Boolean Parenthesization) |
+| 2026-11-16 | POTD K-th Missing in Natural Numbers · GFG 160 DP (Word Break Check), Greedy (Minimum Platforms, Activity Selection, Job Sequencing Problem) |
