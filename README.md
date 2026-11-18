@@ -48,6 +48,7 @@ Daily LeetCode solutions
 | 2026-11-15 | 1524 (POD), 1450, 1455, 1460, 1464, 1475, 1491, 1496, 1502, 1507 |
 | 2026-11-16 | 2243 (POD), 1518, 1534, 1539, 1544, 1550, 1556, 1560, 1566, 1572, 1576 |
 | 2026-11-17 | 2911 (POD), 1582, 1588, 1592, 1598, 1603, 1608, 1619, 1624, 1629 |
+| 2026-11-18 | 2914 (POD), 1636, 1640, 1646, 1652, 1694, 1700, 1704, 1710, 1716 |
 
 ## GFG Log
 | Date | Problems |
@@ -91,3 +92,4 @@ Daily LeetCode solutions
 | 2026-11-15 | POTD Sum of All Digit Subsequences · GFG 160 DP (Stickler Thief II, Total Decoding Messages, Matrix Chain Multiplication, Boolean Parenthesization) |
 | 2026-11-16 | POTD K-th Missing in Natural Numbers · GFG 160 DP (Word Break Check), Greedy (Minimum Platforms, Activity Selection, Job Sequencing Problem) |
 | 2026-11-17 | POTD Repeated Pattern Check · GFG 160 Greedy (Gas Station, Maximize partitions in a String), Graph (DFS of Graph, BFS of Graph) |
+| 2026-11-18 | POTD XOR of Number Range · GFG 160 Graph (Rotten Oranges, Undirected Graph Cycle, Count Islands, Topological Sort, Directed Graph Cycle) |
