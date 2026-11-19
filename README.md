@@ -94,3 +94,4 @@ Daily LeetCode solutions
 | 2026-11-16 | POTD K-th Missing in Natural Numbers · GFG 160 DP (Word Break Check), Greedy (Minimum Platforms, Activity Selection, Job Sequencing Problem) |
 | 2026-11-17 | POTD Repeated Pattern Check · GFG 160 Greedy (Gas Station, Maximize partitions in a String), Graph (DFS of Graph, BFS of Graph) |
 | 2026-11-18 | POTD XOR of Number Range · GFG 160 Graph (Rotten Oranges, Undirected Graph Cycle, Count Islands, Topological Sort, Directed Graph Cycle) |
+| 2026-11-19 | POTD Sort in Specific Order · GFG 160 Graph (Bridge Edge in Graph, Articulation Point, Minimum Cost to Connect Houses, Dijkstra Algorithm) |
