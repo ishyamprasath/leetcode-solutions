@@ -50,6 +50,7 @@ Daily LeetCode solutions
 | 2026-11-17 | 2911 (POD), 1582, 1588, 1592, 1598, 1603, 1608, 1619, 1624, 1629 |
 | 2026-11-18 | 2914 (POD), 1636, 1640, 1646, 1652, 1694, 1700, 1704, 1710, 1716 |
 | 2026-11-19 | 2567 (POD), 1725, 1736, 1742, 1748, 1752, 1758, 1763, 1773, 1779 |
+| 2026-11-20 | 3041 (POD), 1784, 1790, 1796, 1800, 1805, 1812, 1822, 1827, 1837 |
 
 ## GFG Log
 | Date | Problems |
@@ -95,3 +96,4 @@ Daily LeetCode solutions
 | 2026-11-17 | POTD Repeated Pattern Check · GFG 160 Greedy (Gas Station, Maximize partitions in a String), Graph (DFS of Graph, BFS of Graph) |
 | 2026-11-18 | POTD XOR of Number Range · GFG 160 Graph (Rotten Oranges, Undirected Graph Cycle, Count Islands, Topological Sort, Directed Graph Cycle) |
 | 2026-11-19 | POTD Sort in Specific Order · GFG 160 Graph (Bridge Edge in Graph, Articulation Point, Minimum Cost to Connect Houses, Dijkstra Algorithm) |
+| 2026-11-20 | POTD Min Flips for Alternate · GFG 160 Graph (Flood fill Algorithm, Clone Undirected Graph, Alien Dictionary, Bellman Ford) |
