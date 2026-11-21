@@ -98,3 +98,4 @@ Daily LeetCode solutions
 | 2026-11-18 | POTD XOR of Number Range · GFG 160 Graph (Rotten Oranges, Undirected Graph Cycle, Count Islands, Topological Sort, Directed Graph Cycle) |
 | 2026-11-19 | POTD Sort in Specific Order · GFG 160 Graph (Bridge Edge in Graph, Articulation Point, Minimum Cost to Connect Houses, Dijkstra Algorithm) |
 | 2026-11-20 | POTD Min Flips for Alternate · GFG 160 Graph (Flood fill Algorithm, Clone Undirected Graph, Alien Dictionary, Bellman Ford) |
+| 2026-11-21 | POTD Smallest Subarray Sum Greater Than x · GFG 160 Graph (Floyd Warshall, Minimum Weight Cycle), Tries (Implement Trie, Maximum XOR of two numbers in an array) |
