@@ -100,3 +100,4 @@ Daily LeetCode solutions
 | 2026-11-19 | POTD Sort in Specific Order · GFG 160 Graph (Bridge Edge in Graph, Articulation Point, Minimum Cost to Connect Houses, Dijkstra Algorithm) |
 | 2026-11-20 | POTD Min Flips for Alternate · GFG 160 Graph (Flood fill Algorithm, Clone Undirected Graph, Alien Dictionary, Bellman Ford) |
 | 2026-11-21 | POTD Smallest Subarray Sum Greater Than x · GFG 160 Graph (Floyd Warshall, Minimum Weight Cycle), Tries (Implement Trie, Maximum XOR of two numbers in an array) |
+| 2026-11-22 | POTD Longest Subarray Sum Divisible by K · GFG 160 Bit Manipulation (Find Only Repetitive Element from 1 to n-1, Missing in Array, Unique Number I, Two Unique Among Pairs) |
