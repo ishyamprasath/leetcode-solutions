@@ -55,6 +55,7 @@ Daily LeetCode solutions
 | 2026-11-22 | 2124 (POD), 1893, 1897, 1903, 1909, 1913, 1925, 1935, 1941, 1945 |
 | 2026-11-23 | 1352 (POD), 1952, 1957, 1961, 1967, 1974, 1979, 1991, 1995, 2006 |
 | 2026-11-24 | 3411 (POD), 2016, 2022, 2027, 2032, 2037, 2042, 2053, 2057, 2068 |
+| 2026-11-25 | 3934 (POD), 2062, 2073, 2078, 2085, 2094, 2103, 2108, 2119, 2129 |
 
 ## GFG Log
 | Date | Problems |
@@ -105,3 +106,4 @@ Daily LeetCode solutions
 | 2026-11-22 | POTD Longest Subarray Sum Divisible by K · GFG 160 Bit Manipulation (Find Only Repetitive Element from 1 to n-1, Missing in Array, Unique Number I, Two Unique Among Pairs) |
 | 2026-11-23 | POTD Character at Position in Infinite String · GFG 160 Linked List (LRU Cache), Tree (Level Order Traversal, Height of Binary Tree, Diameter of Binary Tree) |
 | 2026-11-24 | POTD Two Pairs with Same Sum |
+| 2026-11-25 | POTD Geek's Destination with Special Jump |
