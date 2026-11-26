@@ -108,4 +108,4 @@ Daily LeetCode solutions
 | 2026-11-23 | POTD Character at Position in Infinite String · GFG 160 Linked List (LRU Cache), Tree (Level Order Traversal, Height of Binary Tree, Diameter of Binary Tree) |
 | 2026-11-24 | POTD Two Pairs with Same Sum |
 | 2026-11-25 | POTD Geek's Destination with Special Jump |
-| 2026-11-26 | POTD Range Vowel Count Queries · GFG 160 Greedy bonus (Minimum Candy Distribution, Police and Thieves) |
+| 2026-11-26 | POTD Range Vowel Count Queries · GFG 160 Greedy bonus (Minimum Candy Distribution, Police and Thieves, Largest Number with One Swap, Min Cost to Connect Ropes) |
