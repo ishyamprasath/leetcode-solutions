@@ -56,6 +56,7 @@ Daily LeetCode solutions
 | 2026-11-23 | 1352 (POD), 1952, 1957, 1961, 1967, 1974, 1979, 1991, 1995, 2006 |
 | 2026-11-24 | 3411 (POD), 2016, 2022, 2027, 2032, 2037, 2042, 2053, 2057, 2068 |
 | 2026-11-25 | 3934 (POD), 2062, 2073, 2078, 2085, 2094, 2103, 2108, 2119, 2129 |
+| 2026-11-26 | 3360 (POD), 2047, 2133, 2138, 2144, 2148, 2164, 2176, 2180, 2185 |
 
 ## GFG Log
 | Date | Problems |
@@ -107,3 +108,4 @@ Daily LeetCode solutions
 | 2026-11-23 | POTD Character at Position in Infinite String · GFG 160 Linked List (LRU Cache), Tree (Level Order Traversal, Height of Binary Tree, Diameter of Binary Tree) |
 | 2026-11-24 | POTD Two Pairs with Same Sum |
 | 2026-11-25 | POTD Geek's Destination with Special Jump |
+| 2026-11-26 | POTD Range Vowel Count Queries · GFG 160 Greedy bonus (Minimum Candy Distribution, Police and Thieves) |
