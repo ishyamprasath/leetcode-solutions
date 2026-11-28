@@ -112,3 +112,4 @@ Daily LeetCode solutions
 | 2026-11-25 | POTD Geek's Destination with Special Jump |
 | 2026-11-26 | POTD Range Vowel Count Queries · GFG 160 Greedy bonus (Minimum Candy Distribution, Police and Thieves, Largest Number with One Swap, Min Cost to Connect Ropes) |
 | 2026-11-27 | POTD Count Edges in Graph · GFG 160 bonus (Split Array in Three Equal Sum Subarrays, Fizz Buzz, PascalCase Pattern Matching, Palindrome Sentence, Minimum Repeat to Make Substring) |
+| 2026-11-28 | POTD Path Exists Between Two Vertices · GFG 160 bonus (Longest Prefix Suffix, Number to Words, Min Sum Pair using Digits, Meeting Rooms, Largest by Concatenating Array Elements, Minimum Increments to Make Distinct, Implement Lower Bound, Bitonic Point, Median of 2 Sorted Arrays of Different Sizes, Square Root) |
